@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644968277000",
+    "project_id": "my-firebase-project-c2bbe",
+    "storage_bucket": "my-firebase-project-c2bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644968277000:android:84be0ebaa419f23d1a9dbd",
+        "android_client_info": {
+          "package_name": "com.example.myfirst_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnY3mm1amjjzZuumM4r5ebZEpNu3WX_rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644968277000:android:3ef56461aa0a07921a9dbd",
+        "android_client_info": {
+          "package_name": "com.example.personal_memory_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnY3mm1amjjzZuumM4r5ebZEpNu3WX_rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
